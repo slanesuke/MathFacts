@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MathFacts</string>
+    <string name="getting_new_math_fact" />
+    <string name="get_math_fact">Get Your First Fact!</string>
+</resources>
